@@ -13,6 +13,8 @@
 		0E97BC10247C810C00CDBC26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E97BC0E247C810C00CDBC26 /* Main.storyboard */; };
 		0E97BC12247C810E00CDBC26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E97BC11247C810E00CDBC26 /* Assets.xcassets */; };
 		0E97BC15247C810E00CDBC26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E97BC13247C810E00CDBC26 /* LaunchScreen.storyboard */; };
+		0E97BC1E247C87D100CDBC26 /* Mazda3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E97BC1D247C87D100CDBC26 /* Mazda3.swift */; };
+		0E97BC20247C8BDC00CDBC26 /* Mazda3Mini.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E97BC1F247C8BDC00CDBC26 /* Mazda3Mini.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,9 @@
 		0E97BC11247C810E00CDBC26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E97BC14247C810E00CDBC26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E97BC16247C810E00CDBC26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E97BC1C247C818900CDBC26 /* MyPlayground-Poo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "MyPlayground-Poo.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0E97BC1D247C87D100CDBC26 /* Mazda3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mazda3.swift; sourceTree = "<group>"; };
+		0E97BC1F247C8BDC00CDBC26 /* Mazda3Mini.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mazda3Mini.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +64,9 @@
 				0E97BC08247C810C00CDBC26 /* AppDelegate.swift */,
 				0E97BC0A247C810C00CDBC26 /* SceneDelegate.swift */,
 				0E97BC0C247C810C00CDBC26 /* ViewController.swift */,
+				0E97BC1D247C87D100CDBC26 /* Mazda3.swift */,
+				0E97BC1F247C8BDC00CDBC26 /* Mazda3Mini.swift */,
+				0E97BC1C247C818900CDBC26 /* MyPlayground-Poo.playground */,
 				0E97BC0E247C810C00CDBC26 /* Main.storyboard */,
 				0E97BC11247C810E00CDBC26 /* Assets.xcassets */,
 				0E97BC13247C810E00CDBC26 /* LaunchScreen.storyboard */,
@@ -141,6 +149,8 @@
 				0E97BC0D247C810C00CDBC26 /* ViewController.swift in Sources */,
 				0E97BC09247C810C00CDBC26 /* AppDelegate.swift in Sources */,
 				0E97BC0B247C810C00CDBC26 /* SceneDelegate.swift in Sources */,
+				0E97BC20247C8BDC00CDBC26 /* Mazda3Mini.swift in Sources */,
+				0E97BC1E247C87D100CDBC26 /* Mazda3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
